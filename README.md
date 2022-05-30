@@ -1,3 +1,7 @@
+<h2>Hi, i am Alexsander.</h2>
+<h4>I'm a backend and mobile developer, graduated in Information Systems.</h4>
+<h4>I am currently looking for work.</h4>
+<h4>I'm deepening my knowledge in TDD, Clean Code and Clean Architecture</h4>
 
 ### Tecnologies & Tools
 <p>
@@ -18,8 +22,11 @@
 
 ### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderSoares&count_private=true&show_icons=true&theme=dark)
+![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderSoares&count_private=true&show_icons=true&theme=dark)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderSoares&layout=compact)](https://github.com/AlexsanderSoares/github-readme-stats)
 
+### Contacts and Social Networks
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lexsanderss) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexsandersoaresdasilva/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alexsanderssoares/) 
