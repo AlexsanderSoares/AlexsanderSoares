@@ -24,6 +24,7 @@
 
 ![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderSoares&count_private=true&show_icons=true&theme=dark)
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderSoares&layout=compact)](https://github.com/AlexsanderSoares/github-readme-stats)
 
 ### Contacts and Social Networks
