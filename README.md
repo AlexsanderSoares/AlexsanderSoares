@@ -1,6 +1,5 @@
 <h2>Hi, i am Alexsander.</h2>
 <h4>I'm a backend and mobile developer, graduated in Information Systems.</h4>
-<h4>I am currently looking for work.</h4>
 <h4>I'm deepening my knowledge in TDD, Clean Code and Clean Architecture</h4>
 
 ### Tecnologies & Tools
