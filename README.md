@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-### Github Stats
-
-![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderSoares&count_private=true&show_icons=true&theme=dark)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderSoares&layout=compact)](https://github.com/AlexsanderSoares/github-readme-stats)
